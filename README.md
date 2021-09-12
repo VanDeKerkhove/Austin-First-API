@@ -2,4 +2,5 @@
 
 First API
 
-- Tested git origin, remote, branches and VS code integration with github. LEarned about "git pull --allow-unrelated-histories"
+- Tested git origin, remote, branches and VS code integration with github.
+- Learned about "git pull --allow-unrelated-histories"
