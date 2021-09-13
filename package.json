@@ -1,0 +1,26 @@
+{
+  "name": "austin-first-api",
+  "version": "1.0.0",
+  "description": "Austin's first API and learning tools",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanDeKerkhove/Austin-First-API.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Austin VanDeKerkhove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanDeKerkhove/Austin-First-API/issues"
+  },
+  "homepage": "https://github.com/VanDeKerkhove/Austin-First-API#readme"
+}
