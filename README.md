@@ -9,3 +9,9 @@ Running:
 
 - type `node .` or `node index.js` to launch the web server on port 3000.
 - View at `http://localhost:3000/`
+
+Available Routes:
+
+- `/` jungle
+- `/abyss` abyss
+- `/abyss/clouds` cloud
