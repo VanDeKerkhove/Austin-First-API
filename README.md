@@ -14,4 +14,4 @@ Available Routes:
 
 - `/` jungle
 - `/abyss` abyss
-- `/abyss/clouds` cloud
+- `/abyss/cloud` cloud
