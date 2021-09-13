@@ -5,6 +5,16 @@
 const express = require("express");
 const app = express();
 
+app.get('/abyss', (req,resp) =>{
+    resp.send("Welcome to the abyss.");
+    // resp.send('hello world ...');
+});
+
+app.get('/abyss/cloud', (req,resp) =>{
+    resp.send("Welcome to the clouds.");
+    // resp.send('hello world ...');
+});
+
 app.get('/', (req,resp) =>{
     resp.send("Welcome to the jungle.");
     // resp.send('hello world ▓╚∟');
